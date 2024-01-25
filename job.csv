@@ -1,0 +1,35 @@
+,job_category,experience_level,job_id
+0,BI and Visualization,Mid-level,1
+1,BI and Visualization,Senior,2
+2,BI and Visualization,Executive,3
+3,BI and Visualization,Entry-level,4
+4,Cloud and Database,Senior,5
+5,Data Analysis,Senior,6
+6,Data Analysis,Executive,7
+7,Data Analysis,Entry-level,8
+8,Data Analysis,Mid-level,9
+9,Data Architecture and Modeling,Mid-level,10
+10,Data Architecture and Modeling,Senior,11
+11,Data Architecture and Modeling,Executive,12
+12,Data Engineering,Executive,13
+13,Data Engineering,Senior,14
+14,Data Engineering,Entry-level,15
+15,Data Engineering,Mid-level,16
+16,Data Management and Strategy,Senior,17
+17,Data Management and Strategy,Mid-level,18
+18,Data Management and Strategy,Entry-level,19
+19,Data Quality and Operations,Mid-level,20
+20,Data Quality and Operations,Senior,21
+21,Data Quality and Operations,Entry-level,22
+22,Data Science and Research,Executive,23
+23,Data Science and Research,Entry-level,24
+24,Data Science and Research,Mid-level,25
+25,Data Science and Research,Senior,26
+26,Leadership and Management,Senior,27
+27,Leadership and Management,Entry-level,28
+28,Leadership and Management,Executive,29
+29,Leadership and Management,Mid-level,30
+30,Machine Learning and AI,Entry-level,31
+31,Machine Learning and AI,Mid-level,32
+32,Machine Learning and AI,Executive,33
+33,Machine Learning and AI,Senior,34
